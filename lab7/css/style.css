@@ -1,0 +1,31 @@
+body{
+	font-size: 12px;
+	color: gray;
+	font-family: 'Arial';
+	line-height: 2em;
+	background:no-repeat; 
+}
+a:link {
+	text-decoration: none;
+	color: #727272;
+}
+a:hover{
+	text-decoration:underline;
+	color: #727272;
+}
+.menu{
+	font-size: 14px;
+	color: #b9f605;
+	font-style: 900;
+}
+.menu a{
+	color: white;
+}
+.menu a:hover{
+	color: #b9f605;
+	text-decoration: none;
+
+}
+a.special {
+	color: #fbd306;
+}
